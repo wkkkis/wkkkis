@@ -1,1 +1,1 @@
-![MacBook Pro - 2](https://user-images.githubusercontent.com/48175008/141692397-65f9b84a-d931-452f-b755-ed7bc76bd08f.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkkkis)](https://github.com/anuraghazra/github-readme-stats)
