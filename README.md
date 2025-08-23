@@ -7,8 +7,8 @@ Building production features with clean architecture, performance, and AI integr
 
 <p align="center">
   <a href="https://iskhak-i.com">Portfolio</a> •
-  <a href="mailto:iskhak.i.dev@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/iskhak-i">LinkedIn</a>
+  <a href="mailto:ishakishmahametov123@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/iskhak-i-923525311/">LinkedIn</a>
 </p>
 
 ---
