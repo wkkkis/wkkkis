@@ -35,7 +35,7 @@ I’ve shipped products for media, booking, and crypto, led small teams, migrate
 ---
 
 ## Contact
-- Email: iskhak.i.dev@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/iskhak-i  
+- Email: ishakishmahametov123@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/iskhak-i-923525311/
 - Portfolio: https://iskhak-i.com
 
