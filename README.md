@@ -27,31 +27,6 @@ I’ve shipped products for media, booking, and crypto, led small teams, migrate
 
 ---
 
-## Selected projects (live + code)
-
-### 1) Smart Search (RAG) for Articles
-**Next.js 14, Postgres + pgvector, OpenAI, Prisma, shadcn/ui, Docker**
-- Semantic search across long‑form content with chunking, embeddings, and sources.
-- SSR/ISR pages, rate‑limit, Zod validation, and tracing.
-- **Demo:** https://…  •  **Repo:** https://github.com/wkkkis/…  
-**Highlights:** clean module boundaries, vector ops, prompt/response telemetry.
-
-### 2) Expo QR/Barcode Scanner (Offline‑First)
-**Expo, React Native, SQLite, Background Sync, Camera, Skia**
-- Scans & caches codes offline; syncs on network restore; media upload to S3.
-- Minimal UI with optimistic updates and conflict resolution.
-- **Demo:** https://…  •  **Repo:** https://github.com/wkkkis/…
-
-### 3) Image Proxy & Transform Service
-**Node, Next.js API Routes, Sharp, Redis, S3/CloudFront, BullMQ**
-- On‑the‑fly resize/optimize with caching and signed URLs, queue for heavy jobs.
-- Healthcheck, metrics, structured logs, CI pipeline.
-- **Demo:** https://…  •  **Repo:** https://github.com/wkkkis/…
-
-> Looking for more? Check pinned repositories or my site: https://iskhak-i.com
-
----
-
 ## Engineering notes
 - **Testing & quality:** Vitest/Playwright, eslint/prettier, Husky, strict TS.
 - **Infra:** Docker Compose for local dev; IaC coming soon; observability hooks.
