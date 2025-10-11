@@ -3,7 +3,6 @@
 <h1 align="center">Isaak • Web Developer • React • Node.js</h1>
 
 <p align="center">
-  <a href="https://iskhak-i.com">Portfolio</a> •
   <a href="mailto:isaak_i@myyahoo.com">Email</a> •
   <a href="https://www.linkedin.com/in/isaak-i-77582a389">LinkedIn</a>
 </p>
