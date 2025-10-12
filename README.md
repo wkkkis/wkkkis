@@ -1,6 +1,6 @@
 <!-- Profile README: wkkkis/wkkkis -->
 
-<h1 align="center">Isaak • Web Developer • React • Node.js</h1>
+<h1 align="center">Isaak I.</h1>
 
 <p align="center">
   <a href="mailto:isaak_i@myyahoo.com">Email</a> •
