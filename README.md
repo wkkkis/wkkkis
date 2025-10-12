@@ -1,8 +1,8 @@
 <!-- Profile README: wkkkis/wkkkis -->
 
-<h1 align="center">Isaak I.</h1>
+<h1>Isaak I.</h1>
 
-<p align="center">
+<p>
   <a href="mailto:isaak_i@myyahoo.com">Email</a> •
   <a href="https://www.linkedin.com/in/isaak-i-77582a389">LinkedIn</a>
 </p>
