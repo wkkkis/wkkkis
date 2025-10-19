@@ -4,7 +4,8 @@
 
 <p>
   <a href="mailto:isaak_i@myyahoo.com">Email</a> •
-  <a href="https://www.linkedin.com/in/isaak-i-77582a389">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/isaak-i">LinkedIn</a> •
+  <a href="https://www.iskhak-i.com">Personal site</a>
 </p>
 
 ---
@@ -25,11 +26,11 @@ improving.
 Authorized to work in the United States (Green Card).
 
 **Tech**
-`TypeScript` · `React` · `Next.js` · `Node.js` · `shadcn/ui`
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Python` · `Django` · `JavaScript` · `Golang`  
 
 ---
 
 ## Contact
 - Email: isaak_i@myyahoo.com  
-- LinkedIn: https://www.linkedin.com/in/isaak-i-77582a389
+- LinkedIn: https://www.linkedin.com/in/isaak-i
 
