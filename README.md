@@ -10,9 +10,19 @@
 ---
 
 ## About me
-Motivated Web Developer with strong hands-on experience building responsive, performant, and modern web applications using React, Next.js, and Node.js.
+Software Engineer focused on React, Next.js, Python and Node.js.
 
-Focused on writing clean, maintainable code and continuously learning new technologies. Skilled in optimizing UI performance, implementing APIs, and collaborating across teams to deliver user-friendly solutions. Recently relocated to the U.S. and eager to grow within a collaborative engineering environment.
+At Bookinglane, integrated Stripe and optimized Core Web Vitals - improving site speed by
+30% and boosting organic traffic that grew revenue 8× through better SEO performance.
+
+At ATLABY TE, built AI-driven tools for image generation and fraud detection that cut
+manual checks by 40%.
+
+I love clean UI, performance, and learning how small improvements can make a big difference.
+Currently based in Seattle and looking for teams where I can grow, ship fast, and keep
+improving.
+
+Authorized to work in the United States (Green Card).
 
 **Tech**
 `TypeScript` · `React` · `Next.js` · `Node.js` · `shadcn/ui`
