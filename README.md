@@ -1,6 +1,6 @@
 <!-- Profile README: wkkkis/wkkkis -->
 
-<h1>Isaak I.</h1>
+<h1>Iskhak I.</h1>
 
 <p>
   <a href="mailto:isaak_i@myyahoo.com">Email</a> •
