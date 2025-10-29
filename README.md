@@ -3,7 +3,7 @@
 <h1>Iskhak I.</h1>
 
 <p>
-  <a href="mailto:isaak_i@myyahoo.com">Email</a> •
+  <a href="mailto:iskhak.i.codes@gmail">Email</a> •
   <a href="https://www.linkedin.com/in/isaak-i">LinkedIn</a> •
   <a href="https://www.iskhak-i.com">Personal site</a>
 </p>
@@ -31,6 +31,6 @@ Authorized to work in the United States (Green Card).
 ---
 
 ## Contact
-- Email: isaak_i@myyahoo.com  
+- Email: iskhak.i.codes@gmail  
 - LinkedIn: https://www.linkedin.com/in/isaak-i
 
