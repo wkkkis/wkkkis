@@ -16,7 +16,7 @@ Software Engineer focused on React, Next.js, Python and Node.js.
 At Bookinglane, integrated Stripe and optimized Core Web Vitals - improving site speed by
 30% and boosting organic traffic that grew revenue 8× through better SEO performance.
 
-At ATLABY TE, built AI-driven tools for image generation and fraud detection that cut
+At ATLABYTE, built AI-driven tools for image generation and fraud detection that cut
 manual checks by 40%.
 
 I love clean UI, performance, and learning how small improvements can make a big difference.
