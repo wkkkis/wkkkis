@@ -1,6 +1,7 @@
 <!-- Profile README: wkkkis/wkkkis -->
 
-<h1>Iskhak I.</h1>
+<h1>Wizards Keep Knowing Knowledge In Software</h1>
+<h2>Iskhak I.</h2>
 
 <p>
   <a href="mailto:iskhak.i.codes@gmail">Email</a> •
